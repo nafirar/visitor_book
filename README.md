@@ -24,4 +24,4 @@ If you want to use this project please create your own firebase for database sto
 5. You ready to go :)
 
 For some test case you can use this barcode from me.
-![picture alt]([http://via.placeholder.com/200x150](https://firebasestorage.googleapis.com/v0/b/visitor-world-59c15.appspot.com/o/static_qr_code_without_logo.jpg?alt=media&token=13109684-4f75-4d52-86ce-18851d3b592f)https://firebasestorage.googleapis.com/v0/b/visitor-world-59c15.appspot.com/o/static_qr_code_without_logo.jpg?alt=media&token=13109684-4f75-4d52-86ce-18851d3b592f "Barcode Scanner")
+https://firebasestorage.googleapis.com/v0/b/visitor-world-59c15.appspot.com/o/static_qr_code_without_logo.jpg?alt=media&token=13109684-4f75-4d52-86ce-18851d3b592f
