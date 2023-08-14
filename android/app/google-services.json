@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009315569744",
+    "project_id": "visitor-world-59c15",
+    "storage_bucket": "visitor-world-59c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009315569744:android:15b33b75ba120774e8b155",
+        "android_client_info": {
+          "package_name": "com.leios.visitor_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009315569744-dto7f9r9d6rjpe8akbc3jih8gioifg8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJEW5APibUeMqRvUaRpLM532U4V5w37kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009315569744-dto7f9r9d6rjpe8akbc3jih8gioifg8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
