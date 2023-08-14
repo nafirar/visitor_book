@@ -24,10 +24,12 @@ If you want to use this project please create your own firebase for database sto
 5. You ready to go :)
 
 For some test case you can use this barcode from me.
+
 ![static_qr_code_without_logo](https://github.com/nafirar/visitor_book/assets/99350193/a7aad915-6505-4c11-b131-27f7fe633fbb)
 
 
 This is how the app will be look like.
+
 ![WhatsApp Image 2023-08-14 at 14 07 04](https://github.com/nafirar/visitor_book/assets/99350193/4291d0a6-5765-4f2e-8c0d-a10652f85592)
 
 ![WhatsApp Image 2023-08-14 at 14 12 09](https://github.com/nafirar/visitor_book/assets/99350193/e6e7c71c-8045-49ce-aaaf-beb6001a9aba)
