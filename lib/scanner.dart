@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_barcode_scanner/flutter_barcode_scanner.dart';
 import 'package:intl/intl.dart';
-import 'package:visitor_world/user_model.dart';
+import 'package:visitor_world/model/user_model.dart';
 
 class Scanner extends StatefulWidget {
   const Scanner({Key? key}) : super(key: key);

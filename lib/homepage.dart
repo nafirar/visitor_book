@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:visitor_world/daftar_tamu.dart';
 import 'package:visitor_world/pengunjung.dart';
 import 'package:visitor_world/scanner.dart';
 
@@ -14,7 +15,8 @@ class _HomePageState extends State<HomePage> {
 
   static List<Widget> _widgetOptions = <Widget>[
     Scanner(),
-    Pengunjung()
+    Pengunjung(),
+    DaftarTamu()
   ];
 
   void _onItemTapped(int index) {
@@ -39,6 +41,10 @@ class _HomePageState extends State<HomePage> {
           BottomNavigationBarItem(
             icon: Icon(Icons.people_rounded),
             label: 'Pengunjung',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.emoji_people),
+            label: 'Tamu',
           ),
         ],
       ),
