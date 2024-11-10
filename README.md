@@ -27,17 +27,13 @@ For some test case you can use this barcode from me.
 
 ![static_qr_code_without_logo](https://github.com/nafirar/visitor_book/assets/99350193/a7aad915-6505-4c11-b131-27f7fe633fbb)
 
-
 This is how the app will be look like.
 
 ![WhatsApp Image 2023-08-14 at 14 07 04](https://github.com/nafirar/visitor_book/assets/99350193/4291d0a6-5765-4f2e-8c0d-a10652f85592)
 
-<img src="https://github.com/nafirar/visitor_book/assets/99350193/a7aad915-6505-4c11-b131-27f7fe633fbb" width="200" />
+<img src="https://github.com/nafirar/visitor_book/assets/99350193/4291d0a6-5765-4f2e-8c0d-a10652f85592" width="200" />
+<img src="https://github.com/nafirar/visitor_book/assets/99350193/e6e7c71c-8045-49ce-aaaf-beb6001a9aba" width="200" />
+<img src="https://github.com/nafirar/visitor_book/assets/99350193/3825cdc4-b055-4257-a797-f3f5ac11dbed" width="200" />
+<img src="https://github.com/nafirar/visitor_book/assets/99350193/4086000d-208b-4740-8a0f-d9ea39bafbd4" width="200" />
+<img src="https://github.com/nafirar/visitor_book/assets/99350193/69de28f4-a6bb-4dc9-9936-ed5cd4c2ad10" width="200" />
 
-![WhatsApp Image 2023-08-14 at 14 12 09](https://github.com/nafirar/visitor_book/assets/99350193/e6e7c71c-8045-49ce-aaaf-beb6001a9aba)
-
-![WhatsApp Image 2023-08-14 at 14 12 08](https://github.com/nafirar/visitor_book/assets/99350193/3825cdc4-b055-4257-a797-f3f5ac11dbed)
-
-![WhatsApp Image 2023-08-14 at 14 06 59](https://github.com/nafirar/visitor_book/assets/99350193/4086000d-208b-4740-8a0f-d9ea39bafbd4)
-
-![WhatsApp Image 2023-08-14 at 14 07 06](https://github.com/nafirar/visitor_book/assets/99350193/69de28f4-a6bb-4dc9-9936-ed5cd4c2ad10)
