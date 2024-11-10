@@ -29,8 +29,6 @@ For some test case you can use this barcode from me.
 
 This is how the app will be look like.
 
-![WhatsApp Image 2023-08-14 at 14 07 04](https://github.com/nafirar/visitor_book/assets/99350193/4291d0a6-5765-4f2e-8c0d-a10652f85592)
-
 <img src="https://github.com/nafirar/visitor_book/assets/99350193/4291d0a6-5765-4f2e-8c0d-a10652f85592" width="200" />
 <img src="https://github.com/nafirar/visitor_book/assets/99350193/e6e7c71c-8045-49ce-aaaf-beb6001a9aba" width="200" />
 <img src="https://github.com/nafirar/visitor_book/assets/99350193/3825cdc4-b055-4257-a797-f3f5ac11dbed" width="200" />
